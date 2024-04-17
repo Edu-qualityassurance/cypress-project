@@ -1,0 +1,23 @@
+[
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "XLS",
+        "cor": "Blue",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Aero Daily Fitness Tee",
+        "tamanho": "S",
+        "cor": "Yellow",
+        "quantidade": 2
+    },
+    {
+        "nomeProduto": "Atlas Fitness Tank",
+        "tamanho": "XL",
+        "cor": "Blue",
+        "quantidade": 1
+    }
+    
+
+
+]
